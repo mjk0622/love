@@ -1,0 +1,1 @@
+import{o as r,j as e}from"./index.c191a709.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";var o=a({},[["render",function(a,o){return r(),e("div",{class:"heart"})}],["__scopeId","data-v-0fc8039c"]]);export{o as default};
